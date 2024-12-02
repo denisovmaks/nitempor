@@ -1,0 +1,2 @@
+    public var dash: [CGFloat]
+    
